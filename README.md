@@ -43,9 +43,11 @@ A Java-based file packing and unpacking application with a graphical user interf
 ```text
 Packer-Unpacker/
 │
-├── Packer.java
-├── Unpacker.java
-├── PackerUnpackerGUI.java
+├── src/
+│   ├── Packer.java
+│   ├── Unpacker.java
+│   └── PackerUnpackerGUI.java
+│
 ├── screenshots/
 │   ├── main-gui.png
 │   ├── packing.png
