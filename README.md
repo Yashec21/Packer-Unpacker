@@ -146,4 +146,4 @@ java PackerUnpackerGUI
 
 Computer Science & Engineering (Data Science)
 
-[GitHub](https://github.com/YOUR-USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[GitHub](https://github.com/Yashec21) • [LinkedIn](https://www.linkedin.com/in/yashpatilec/)
